@@ -7,7 +7,7 @@
 * Add the files to temp area
 ...
 
-git add <file-name>
+git add file-name
 
 ....
 
