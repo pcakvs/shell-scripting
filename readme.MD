@@ -8,6 +8,7 @@
 ...
 
 git add <file-name>
+
 ....
 
 *commit the changes
